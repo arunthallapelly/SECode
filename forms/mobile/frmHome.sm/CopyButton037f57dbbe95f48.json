@@ -39,6 +39,7 @@
     "displaytext": true,
     "focusskin": "s7d40079cfd54b4193c11a69c27e042d",
     "id": "CopyButton037f57dbbe95f48",
+    "ide_onClick": "AS_Button_a8300d77c5c8454498fa74295b9c0324",
     "info": null,
     "isvisible": true,
     "kuid": "7735c4f5222b419dbe391e274cc3e5ce",
