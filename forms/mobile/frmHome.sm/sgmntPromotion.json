@@ -1,0 +1,143 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "Image0f3216ed7af004a": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "news1.jpg"
+            },
+            "txtHeadline": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Pioneer Natural Resources May have 21% Upside, Says Williams Capital"
+            }
+        },
+        {
+            "Image0f3216ed7af004a": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "news2.png"
+            },
+            "txtHeadline": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Pioneer Natural Resources (PXD) Maintains Dividend Payout"
+            }
+        },
+        {
+            "Image0f3216ed7af004a": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "news3.jpg"
+            },
+            "txtHeadline": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Will Pioneer Natural Resources' Q2 Earnings Affect Production Plans?"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "155dp"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "16dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "200dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "viewType": "coverflow"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "b46a499eae6042bca35e334724567075",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "sgmntPromotion",
+    "info": null,
+    "invokedProperty": "pageOffDotImage",
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none",
+            "showProgressIndicator": true
+        },
+        "viewType": "coverflow"
+    },
+    "isvisible": true,
+    "kuid": "cfe110fedeb2435f8ef80e604c472da9",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": false,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom",
+        "vdistance": 1
+    },
+    "parent": "frmHome",
+    "pf": "frmHome",
+    "retainselection": false,
+    "rowTemplateId": "b60663bfabc24f99ad4959a00c3aa31b",
+    "rowcounter": 2,
+    "rowfocusskin": "sdd7de8acb504ba5b3a1947934171014",
+    "rowskin": "s9978215505e461bac6497055fda810f",
+    "rowtemplate": "FlexContainer0da33cbf4ffaf43",
+    "seccounter": 0,
+    "sectionheaderskin": "se657447ee704294af757a7cd175a7fb",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": null,
+    "selectionbehavior": "default",
+    "selectionbehaviorconfig": null,
+    "separatorrequired": false,
+    "showprogressindicator": true,
+    "showscrollbars": false,
+    "swipeContext": {
+        "currentPage": 0,
+        "imageWidth": 640,
+        "widthRatio": 0
+    },
+    "viewtype": "pageview",
+    "wType": "Segment",
+    "widgetdatamap": {
+        "FlexContainer0da33cbf4ffaf43": "FlexContainer0da33cbf4ffaf43",
+        "Image0f3216ed7af004a": "Image0f3216ed7af004a",
+        "txtHeadline": "txtHeadline"
+    },
+    "zindex": 1
+}

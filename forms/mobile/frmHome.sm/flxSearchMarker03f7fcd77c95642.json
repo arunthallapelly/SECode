@@ -1,0 +1,56 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s269911113c849a39bea4d083eb2e36a",
+    "_srcKuid_": "90e811fe92e84473ae340f54eedb5f69",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "children": [
+        "Image08bf77a9a91a947",
+        "Label0785a6ea8f6474b"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "centerX": {
+            "type": "string",
+            "value": "50%"
+        },
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "30dp"
+        },
+        "id": "flxSearchMarker03f7fcd77c95642",
+        "left": {
+            "type": "string",
+            "value": "0%"
+        },
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "90%"
+        },
+        "zIndex": 10
+    },
+    "id": "flxSearchMarker03f7fcd77c95642",
+    "instanceOf": "90e811fe92e84473ae340f54eedb5f69",
+    "isvisible": true,
+    "kuid": "mcc73d90070e4d50bbb5f17c0aebd0d4",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxSearch0ef157dfcb6a646",
+    "pf": "frmHome",
+    "wType": "FlexContainer"
+}

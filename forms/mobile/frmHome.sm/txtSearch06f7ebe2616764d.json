@@ -1,0 +1,52 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s944dbec9cfb4573b99792682d0e93b9",
+    "_srcKuid_": "9d62cf0eaadb4bcaa6e0918119aff3c7",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "centerX": {
+            "type": "string",
+            "value": "50%"
+        },
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "30dp"
+        },
+        "id": "txtSearch06f7ebe2616764d",
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "placeholder": "",
+        "text": "",
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "90%"
+        }
+    },
+    "id": "txtSearch06f7ebe2616764d",
+    "instanceOf": "9d62cf0eaadb4bcaa6e0918119aff3c7",
+    "isvisible": true,
+    "kuid": "mf3abf1475764630b01eb97f82478c16",
+    "masterInstance": true,
+    "name": "kony.ui.TextBox2",
+    "parent": "flxSearch0ef157dfcb6a646",
+    "pf": "frmHome",
+    "wType": "TextField"
+}

@@ -31,6 +31,6 @@
     <attributes name="APPLICATION_THEME" value="default"/>
     <attributes name="SELECTED_THEME" value="default"/>
     <attributes name="Server side mobile web" value="false"/>
-    <attributes name="cloud_url" value="http://ubuntu-local:8080"/>
-    <attributes name="cloud_env_name" value="KonyAccount-LocalDevEnv"/>
+    <attributes name="cloud_url" value="https://konysecloud.konycloud.com"/>
+    <attributes name="cloud_env_name" value="Kony SE Clouds-SE Dev Cloud"/>
 </properties>

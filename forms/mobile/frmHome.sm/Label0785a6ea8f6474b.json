@@ -1,0 +1,52 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s70beb975ffb4f36bd2fdb916b86e702",
+    "_srcKuid_": "7bc8e1c030ce48c49aa46ed5e159dd37",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "centerX": {
+            "type": "string",
+            "value": "50%"
+        },
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "31dp"
+        },
+        "id": "Label0785a6ea8f6474b",
+        "left": {
+            "type": "string",
+            "value": "40dp"
+        },
+        "text": "Find Someone",
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "zIndex": 1
+    },
+    "id": "Label0785a6ea8f6474b",
+    "instanceOf": "7bc8e1c030ce48c49aa46ed5e159dd37",
+    "isvisible": true,
+    "kuid": "mf5eef772b2d4198b92a16cebf3007f4",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "flxSearchMarker03f7fcd77c95642",
+    "pf": "frmHome",
+    "wType": "Label"
+}

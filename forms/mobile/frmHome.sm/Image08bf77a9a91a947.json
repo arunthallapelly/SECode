@@ -1,0 +1,47 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s07aced9691b4fe3977bbf8cb5f58e65",
+    "_srcKuid_": "4f84f859d1374718940dd99a305488b9",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "28dp"
+        },
+        "id": "Image08bf77a9a91a947",
+        "left": {
+            "type": "string",
+            "value": "5dp"
+        },
+        "src": "search.png",
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "26dp"
+        }
+    },
+    "id": "Image08bf77a9a91a947",
+    "instanceOf": "4f84f859d1374718940dd99a305488b9",
+    "isvisible": true,
+    "kuid": "m222f2fc9e8147a5aeacdf20f50fd33f",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "flxSearchMarker03f7fcd77c95642",
+    "pf": "frmHome",
+    "wType": "Image"
+}

@@ -1,0 +1,48 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb5a752d4ffd4760af71cb27d9580db6",
+    "_srcKuid_": "eeadb151a4204642b30a203638f1c15b",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "centerX": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "100dp"
+        },
+        "id": "Image04fdba84ba2f04e",
+        "left": {
+            "type": "string",
+            "value": "155dp"
+        },
+        "src": "appicon_60at3x.png",
+        "top": {
+            "type": "string",
+            "value": "50dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "100dp"
+        },
+        "zIndex": 1
+    },
+    "id": "Image04fdba84ba2f04e",
+    "instanceOf": "eeadb151a4204642b30a203638f1c15b",
+    "isvisible": true,
+    "kuid": "m95e6809bd494547a78aa34c5b2ba534",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "flxHeader",
+    "pf": "frmHome",
+    "wType": "Image"
+}

@@ -15,7 +15,7 @@
     "appidkey": "PioneerNR",
     "apppackagekey": "",
     "mwhttpsportkey": "",
-    "startupformkey": "frmNews",
+    "startupformkey": "frmHome",
     "referenceWidth": "375",
     "vendornamekey": "KonyLabs",
     "konyVizVersion": "7.1.1",
@@ -29,7 +29,7 @@
         "isEnableJSContaineriOS": false
     },
     "appmenu": {
-        "focusSkin": null,
+        "focusSkin": "",
         "tablet": {
             "data": [
                 {
@@ -96,11 +96,11 @@
         },
         "osVersion": "iOS7",
         "wType": "Appmenu",
-        "focusskin": null,
+        "focusskin": "",
         "osPlatform": "",
         "context": {
-            "platform": "ipad",
-            "channel": "tablet"
+            "platform": "iphone",
+            "channel": "mobile"
         },
         "desktop": {
             "data": [
@@ -138,57 +138,58 @@
                 }
             ]
         },
-        "skin": null,
+        "skin": "",
         "mobile": {
             "data": [
                 {
                     "id": "appmenuitemid1",
-                    "title": "Item 1",
+                    "title": "News",
                     "icon": {
                         "default": "option1.png"
                     },
-                    "kuid": "1429e29c7806474b88186ac7372e1738",
-                    "android": {
-                        "showAsFlag": 0
-                    }
+                    "ide_onClick": null,
+                    "kuid": "1429e29c7806474b88186ac7372e1738"
                 },
                 {
                     "id": "appmenuitemid2",
-                    "title": "Item 2",
+                    "title": "Tools",
                     "icon": {
                         "default": "option2.png"
                     },
-                    "kuid": "8e4e30b5cb494f45abd912acf95b520a",
-                    "android": {
-                        "showAsFlag": 0
-                    }
+                    "ide_onClick": null,
+                    "kuid": "8e4e30b5cb494f45abd912acf95b520a"
                 },
                 {
                     "id": "appmenuitemid3",
-                    "title": "Item 3",
+                    "title": "Learning",
                     "icon": {
                         "default": "option3.png"
                     },
-                    "kuid": "1891536797b440abbc18b109dd39cc3e",
-                    "android": {
-                        "showAsFlag": 0
-                    }
+                    "ide_onClick": null,
+                    "kuid": "1891536797b440abbc18b109dd39cc3e"
                 },
                 {
                     "id": "appmenuitemid4",
-                    "title": "Item 4",
+                    "title": "Collaboration",
                     "icon": {
                         "default": "option4.png"
                     },
-                    "kuid": "8c87db2ec1654401b1d458248560cb79",
-                    "android": {
-                        "showAsFlag": 0
-                    }
+                    "ide_onClick": null,
+                    "kuid": "8c87db2ec1654401b1d458248560cb79"
                 }
             ]
         }
     },
     "mfappguid": {
         "d157f223-9b9c-4f8d-9e07-74ced23ac833": "74a25747-19d2-49e7-bb2d-dfbe9415572e"
+    },
+    "accountCloudGuid": "944ad2ba-2fd3-42bc-a25a-88723d35827e",
+    "projectCloudGuid": "9df65136-5088-4e09-a5d9-02181b219c13",
+    "prototype": {
+        "createdOn": "2016-08-30T16:13:39.960Z",
+        "createdById": "ef877e57-b4eb-453e-9ef0-f2f75226ba39",
+        "createdBy": "Scott Hathaway",
+        "shareGuid": "P3J14",
+        "resourceId": "fb53d5ac-49ac-4733-9da9-91213c9016be"
     }
 }
