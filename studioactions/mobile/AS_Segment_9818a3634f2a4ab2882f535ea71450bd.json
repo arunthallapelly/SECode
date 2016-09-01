@@ -1,0 +1,34 @@
+{
+    "AS_Segment_9818a3634f2a4ab2882f535ea71450bd": {
+        "id": "AS_Segment_9818a3634f2a4ab2882f535ea71450bd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmCostPlans",
+            "type": "forms",
+            "platform": null,
+            "KUID": "8ca2f6a653fe4f47baf015e049d4cde2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___9adf14c0d4a940499aa038f067d3d0ff",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAmountDetails",
+            "formKUID": "4608b1f1dbd34305907b02711f778673",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

@@ -27,7 +27,9 @@
     },
     "canUpdateUI": true,
     "children": [
-        "flxNavHeader"
+        "flxNavHeader",
+        "Segment0d097b6e60c6c45",
+        "Button0e6e4ecd8d19046"
     ],
     "containerweight": 100,
     "currentLocale": null,

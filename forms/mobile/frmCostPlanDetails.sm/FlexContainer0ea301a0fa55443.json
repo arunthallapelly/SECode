@@ -12,7 +12,7 @@
     "channel": "mobile",
     "children": [
         "Label0ebe42d3248fc40",
-        "TextField0e2064f77c7394d"
+        "txtPlanName"
     ],
     "context": {},
     "dataDiffs": {

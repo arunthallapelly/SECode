@@ -36,7 +36,10 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "childInstances": [
-        "m50306dc23264d23a590c5a16c1933c0"
+        "m50306dc23264d23a590c5a16c1933c0",
+        "m31368f15cbc42988b30f1e399943a82",
+        "m25d78793df84f0c828600b86e61237f",
+        "m53eaca3757c4f05904936681049a2b7"
     ],
     "children": [
         "FlexContainer06225230861f448"

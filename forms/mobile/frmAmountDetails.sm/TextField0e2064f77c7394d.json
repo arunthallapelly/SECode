@@ -40,10 +40,10 @@
     "id": "TextField0e2064f77c7394d",
     "instanceOf": "e6ac481f9f6e4021a4f0d8ef27d42635",
     "isvisible": true,
-    "kuid": "mac4365417a54c6dab47c77d94074838",
+    "kuid": "m4a4f9941f36409383b5f675d7989d0b",
     "masterInstance": true,
     "name": "kony.ui.TextBox2",
-    "parent": "FlexContainer0ea301a0fa55443",
-    "pf": "frmCostPlanDetails",
+    "parent": "FlexContainer05ae1eee4525748",
+    "pf": "frmAmountDetails",
     "wType": "TextField"
 }

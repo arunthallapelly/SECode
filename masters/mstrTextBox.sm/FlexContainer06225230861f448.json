@@ -36,7 +36,10 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "childInstances": [
-        "m270ed9f3076407e88fa6ba791ddf63c"
+        "m270ed9f3076407e88fa6ba791ddf63c",
+        "m18c21f66e1f493dadb2b00a3e6aae1d",
+        "m2b7bf3ca7a747eaa078fbd6067d5401",
+        "md1c2fe0650d4197a69e81f676bdd1c2"
     ],
     "children": [
         "Label05ff3d7d7297941",

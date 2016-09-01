@@ -1,0 +1,33 @@
+{
+    "AS_Button_27d0a1ff8ef447b1a2fa92d0ee56d1f9": {
+        "id": "AS_Button_27d0a1ff8ef447b1a2fa92d0ee56d1f9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAmountDetails",
+            "type": "forms",
+            "platform": null,
+            "KUID": "4608b1f1dbd34305907b02711f778673"
+        },
+        "sourceObj": {
+            "itemKUID": "4d9a46c4c74246359e59e0bfcf815328",
+            "widgetKUID": "1d0af7bb6edd4455adc20b63ae6b09d0",
+            "evt": "onClick"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___aaf00f1278d344cc9087f9b6234ed272",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAmounts",
+            "formKUID": "479bc07f042e49cab4cc911e7f0332c4",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": null,
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "Label00bc2b04d3eec4f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Project Name"
+            },
+            "Label02567d945507049": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100007 - Permian SCADA Infrastructure Upgrade"
+            }
+        },
+        {
+            "Label00bc2b04d3eec4f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Project Name"
+            },
+            "Label02567d945507049": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100029 - XBC Giddings Jo Mill Horizontal Well Simulation Study"
+            }
+        },
+        {
+            "Label00bc2b04d3eec4f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Project Name"
+            },
+            "Label02567d945507049": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100255 - Testing new fields"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": "10"
+    },
+    "_top_": {
+        "type": "string",
+        "value": "70dp"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "Segment0f5414bdc735140",
+    "ide_onRowClick": "AS_Segment_9818a3634f2a4ab2882f535ea71450bd",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "076413d2cbc7439eb23aba88673b826c",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "frmCostPlans",
+    "pf": "frmCostPlans",
+    "retainselection": false,
+    "rowTemplateId": "79ba5d8fb2424dd2b676cb3ed70dc3c0",
+    "rowcounter": 2,
+    "rowfocusskin": "s84cfa7f71bc4ef885433ce58fa831b5",
+    "rowskin": "s30b38b6b0d64b9d9fe74f55f5504a72",
+    "rowtemplate": "FlexContainer0d970d3ee63894e",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s0f170f628ad4970af6157dd8bffc05f",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "FlexContainer0d970d3ee63894e": "FlexContainer0d970d3ee63894e",
+        "Label00bc2b04d3eec4f": "Label00bc2b04d3eec4f",
+        "Label02567d945507049": "Label02567d945507049"
+    },
+    "zindex": 1
+}

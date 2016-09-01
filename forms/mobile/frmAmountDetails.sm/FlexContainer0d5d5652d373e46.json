@@ -1,0 +1,47 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scc97285e731472f8ddc257e446389af",
+    "_srcKuid_": "m9890fd9bd04442795506ee62909c1cc",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "children": [
+        "FlexContainer0b978db9daacd48"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "50dp"
+        },
+        "id": "FlexContainer0d5d5652d373e46",
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 1
+    },
+    "id": "FlexContainer0d5d5652d373e46",
+    "instanceOf": "m9890fd9bd04442795506ee62909c1cc",
+    "isvisible": true,
+    "kuid": "m72236162ae448ec9084589b59dd0ff5",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "FlexContainer077e3f149870f40",
+    "pf": "frmAmountDetails",
+    "wType": "FlexContainer"
+}

@@ -33,6 +33,7 @@
         "zIndex": 10
     },
     "id": "btnBack",
+    "ide_onClick": "AS_Button_8331a43f4ba844feb7a274e9e592bc00",
     "instanceOf": "1d0af7bb6edd4455adc20b63ae6b09d0",
     "isvisible": true,
     "kuid": "m44d493332a6458d973996e945f2febe",

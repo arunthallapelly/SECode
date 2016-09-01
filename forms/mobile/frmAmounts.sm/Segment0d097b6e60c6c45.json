@@ -1,0 +1,237 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "CopyLabel0014e734eaf6d46": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Tax"
+            },
+            "CopyLabel0811921a6493c40": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cost"
+            },
+            "CopyLabel094e2f495ddc847": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transaction Class"
+            },
+            "CopyLabel09c0af2040d5949": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Total Cost"
+            },
+            "CopylblTax0f76500befbd14b": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "lblTotal"
+            },
+            "Label06e11384e78f547": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cost Type"
+            },
+            "lblClass": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblCost": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblTax": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "CopyLabel0014e734eaf6d46": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Tax"
+            },
+            "CopyLabel0811921a6493c40": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cost"
+            },
+            "CopyLabel094e2f495ddc847": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transaction Class"
+            },
+            "CopyLabel09c0af2040d5949": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Total Cost"
+            },
+            "CopylblTax0f76500befbd14b": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "lblTotal"
+            },
+            "Label06e11384e78f547": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cost Type"
+            },
+            "lblClass": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblCost": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblTax": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "CopyLabel0014e734eaf6d46": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Tax"
+            },
+            "CopyLabel0811921a6493c40": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cost"
+            },
+            "CopyLabel094e2f495ddc847": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transaction Class"
+            },
+            "CopyLabel09c0af2040d5949": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Total Cost"
+            },
+            "CopylblTax0f76500befbd14b": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "lblTotal"
+            },
+            "Label06e11384e78f547": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cost Type"
+            },
+            "lblClass": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblCost": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblTax": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": "5"
+    },
+    "_top_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "Segment0d097b6e60c6c45",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "b4ecd222f8b943c8be1f8cc17a9d0628",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "frmAmounts",
+    "pf": "frmAmounts",
+    "retainselection": false,
+    "rowTemplateId": "86d183257a4849ee875dadc369aa6b37",
+    "rowcounter": 2,
+    "rowfocusskin": "s84cfa7f71bc4ef885433ce58fa831b5",
+    "rowskin": "s30b38b6b0d64b9d9fe74f55f5504a72",
+    "rowtemplate": "FlexContainer0badaf6f8ee2a4c",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s0f170f628ad4970af6157dd8bffc05f",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyFlexContainer008b2b46dd90a48": "CopyFlexContainer008b2b46dd90a48",
+        "CopyFlexContainer0358610a9cb9a4d": "CopyFlexContainer0358610a9cb9a4d",
+        "CopyFlexContainer07e805b435c804d": "CopyFlexContainer07e805b435c804d",
+        "CopyFlexContainer098294157050b4e": "CopyFlexContainer098294157050b4e",
+        "CopyLabel0014e734eaf6d46": "CopyLabel0014e734eaf6d46",
+        "CopyLabel0811921a6493c40": "CopyLabel0811921a6493c40",
+        "CopyLabel094e2f495ddc847": "CopyLabel094e2f495ddc847",
+        "CopyLabel09c0af2040d5949": "CopyLabel09c0af2040d5949",
+        "CopylblTax0f76500befbd14b": "CopylblTax0f76500befbd14b",
+        "FlexContainer0badaf6f8ee2a4c": "FlexContainer0badaf6f8ee2a4c",
+        "FlexContainer0cda41619eb8744": "FlexContainer0cda41619eb8744",
+        "Label06e11384e78f547": "Label06e11384e78f547",
+        "lblClass": "lblClass",
+        "lblCost": "lblCost",
+        "lblTax": "lblTax",
+        "lblType": "lblType"
+    },
+    "zindex": 1
+}

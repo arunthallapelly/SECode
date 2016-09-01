@@ -1,0 +1,40 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4f8b2f58941437f980a5a702780a934",
+    "_srcKuid_": "ed0be21a7ec645e58b362ee948aaa17e",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "40dp"
+        },
+        "id": "Label090ed02d1ed804c",
+        "text": "Tax",
+        "width": {
+            "type": "string",
+            "value": "30%"
+        },
+        "zIndex": 1
+    },
+    "id": "Label090ed02d1ed804c",
+    "instanceOf": "ed0be21a7ec645e58b362ee948aaa17e",
+    "isvisible": true,
+    "kuid": "me85478634cd4e22bafacc762bf73a88",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "FlexContainer03d47deb0e8a548",
+    "pf": "frmAmountDetails",
+    "wType": "Label"
+}

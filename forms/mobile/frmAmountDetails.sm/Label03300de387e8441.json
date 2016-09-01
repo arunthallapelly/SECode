@@ -1,0 +1,40 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4f8b2f58941437f980a5a702780a934",
+    "_srcKuid_": "ed0be21a7ec645e58b362ee948aaa17e",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "40dp"
+        },
+        "id": "Label03300de387e8441",
+        "text": "Cost",
+        "width": {
+            "type": "string",
+            "value": "30%"
+        },
+        "zIndex": 1
+    },
+    "id": "Label03300de387e8441",
+    "instanceOf": "ed0be21a7ec645e58b362ee948aaa17e",
+    "isvisible": true,
+    "kuid": "m4616df4ca10487789ee77f85df46959",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "FlexContainer05ae1eee4525748",
+    "pf": "frmAmountDetails",
+    "wType": "Label"
+}

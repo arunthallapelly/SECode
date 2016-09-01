@@ -1,0 +1,49 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s6f718df7a3345789f88c1c209ea3d8a",
+    "_srcKuid_": "e6ac481f9f6e4021a4f0d8ef27d42635",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "40dp"
+        },
+        "id": "txtPlanName",
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "placeholder": "",
+        "text": "",
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "70%"
+        },
+        "zIndex": 1
+    },
+    "id": "txtPlanName",
+    "instanceOf": "e6ac481f9f6e4021a4f0d8ef27d42635",
+    "isvisible": true,
+    "kuid": "mac4365417a54c6dab47c77d94074838",
+    "masterInstance": true,
+    "name": "kony.ui.TextBox2",
+    "parent": "FlexContainer0ea301a0fa55443",
+    "pf": "frmCostPlanDetails",
+    "wType": "TextField"
+}

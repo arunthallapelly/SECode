@@ -1,0 +1,33 @@
+{
+    "AS_Button_fa5596c741f64f61b4bb65479f840e21": {
+        "id": "AS_Button_fa5596c741f64f61b4bb65479f840e21",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CopyfrmAmounts076160a9c241446",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d8fa179d79674048b14ecaa7b814fb71"
+        },
+        "sourceObj": {
+            "itemKUID": "4d9a46c4c74246359e59e0bfcf815328",
+            "widgetKUID": "1d0af7bb6edd4455adc20b63ae6b09d0",
+            "evt": "onClick"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_5f524727d78e4e1bb764cbfffbefaf3d",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmCostPlanDetails",
+            "formKUID": "376cc4ac324341e2a3c159863b566e60",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

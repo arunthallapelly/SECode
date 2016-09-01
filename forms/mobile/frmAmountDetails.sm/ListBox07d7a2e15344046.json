@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s850092ed60e40b7a2d48a8f7db3f8e2",
+    "_srcKuid_": "52d128db64dc4028a9dcd08f233abe75",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {
+        "ispercent": ""
+    },
+    "dataDiffs": {
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "40dp"
+        },
+        "id": "ListBox07d7a2e15344046",
+        "masterData": [],
+        "width": {
+            "type": "string",
+            "value": "70%"
+        },
+        "zIndex": 1
+    },
+    "id": "ListBox07d7a2e15344046",
+    "instanceOf": "52d128db64dc4028a9dcd08f233abe75",
+    "isvisible": true,
+    "kuid": "m7e6a92df87e4bcb93c28e2597a15840",
+    "masterInstance": true,
+    "name": "kony.ui.ListBox",
+    "parent": "FlexContainer0b978db9daacd48",
+    "pf": "frmAmountDetails",
+    "selectedKeyValue": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "wType": "ListBox"
+}

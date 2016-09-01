@@ -1,0 +1,49 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s6f718df7a3345789f88c1c209ea3d8a",
+    "_srcKuid_": "e6ac481f9f6e4021a4f0d8ef27d42635",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "40dp"
+        },
+        "id": "TextField08f7ae227475c44",
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "placeholder": "",
+        "text": "",
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "70%"
+        },
+        "zIndex": 1
+    },
+    "id": "TextField08f7ae227475c44",
+    "instanceOf": "e6ac481f9f6e4021a4f0d8ef27d42635",
+    "isvisible": true,
+    "kuid": "mfd6ee3b3ea542748d7f83b092baafb1",
+    "masterInstance": true,
+    "name": "kony.ui.TextBox2",
+    "parent": "FlexContainer03d47deb0e8a548",
+    "pf": "frmAmountDetails",
+    "wType": "TextField"
+}

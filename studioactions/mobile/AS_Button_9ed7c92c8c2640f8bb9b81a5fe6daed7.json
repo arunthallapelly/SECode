@@ -14,31 +14,15 @@
         },
         "language": "js",
         "actions": [{
-            "id": "___ide_onClick_5bc6419b52cc4a89b818c06091899ff6",
-            "type": "MOVE_ACTION",
-            "itemType": "FORM",
-            "itemId": "frmCostPlanDetails",
-            "widgetId": "flxCostCenters",
-            "itemKUID": "376cc4ac324341e2a3c159863b566e60",
-            "widgetKUID": "d2193f74feda4afaad66a1c1d77db9d3",
-            "animationObject": {
-                "centerX": "50%",
-                "anchorPoint": {},
-                "stepConfig": {
-                    "timingFunction": "kony.anim.EASE"
-                }
-            },
-            "config": {
-                "delay": "0",
-                "iterationCount": 1,
-                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
-                "duration": "250"
-            },
-            "start": "Immediately",
-            "animationId": "MOVE_ACTION____9757c45cba0f4b66b2d941905cd73028",
-            "displayAnimationId": "MOVE_ACTION____9757c45cba0f4b66b2d941905cd73028",
-            "forkedPlatform": "all",
-            "callbackType": null
+            "id": "NAVIGATE_TO_FORM___446355b98bfb441ea412f21eea788d9f",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAmounts",
+            "formKUID": "479bc07f042e49cab4cc911e7f0332c4",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
         }]
     }
 }
