@@ -27,7 +27,8 @@
     },
     "canUpdateUI": true,
     "children": [
-        "Image037f472fd0cd84e"
+        "Image037f472fd0cd84e",
+        "FlexContainer0237145d9917144"
     ],
     "containerweight": 100,
     "currentLocale": null,
