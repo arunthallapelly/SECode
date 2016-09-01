@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "50dp"
+        "value": "51.78%"
     },
     "_left_": {
         "type": "string",
@@ -23,41 +23,45 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sd384f11ae0f4433b7e50a1a970c770c",
+    "_right_": {
+        "type": "number",
+        "value": "10"
+    },
+    "_skin_": "s1a79629d5624e5090d2439d50d488d6",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "50dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "90%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
-    "childInstances": [
-        "m6774703fef54dc0bb35047c92b72fae",
-        "m887ce9a2c9d42739abd6ca33ee2541e",
-        "m9990f05f3ee4a54ae59c7e600f5b427"
-    ],
+    "centerx": {
+        "type": "string",
+        "value": "175%"
+    },
     "children": [
-        "Label0d9ee8eb3ae0c42",
-        "btnBack"
+        "Label0dd0c8ebd291949",
+        "FlexContainer05afdae8a332845",
+        "Button0511caa779e0742"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxNavHeader",
+    "id": "flxCostCenters",
     "info": null,
     "isvisible": true,
-    "kuid": "mf6d3a13b5b44ec29f85de659464a1a6",
+    "kuid": "d2193f74feda4afaad66a1c1d77db9d3",
     "layouttype": 2,
-    "masterTopLevelFlex": true,
     "name": "kony.ui.FlexContainer",
-    "parent": "mstrNavHeader",
-    "pf": "mstrNavHeader",
+    "parent": "frmCostPlanDetails",
+    "pf": "frmCostPlanDetails",
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
-    "widgetalignment": 1
+    "widgetalignment": 1,
+    "zindex": 1
 }

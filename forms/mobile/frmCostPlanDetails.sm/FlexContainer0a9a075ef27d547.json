@@ -23,7 +23,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sd384f11ae0f4433b7e50a1a970c770c",
+    "_skin_": "sf1d262bcb3641039d73d807273a1081",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -35,29 +35,23 @@
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
-    "childInstances": [
-        "m6774703fef54dc0bb35047c92b72fae",
-        "m887ce9a2c9d42739abd6ca33ee2541e",
-        "m9990f05f3ee4a54ae59c7e600f5b427"
-    ],
     "children": [
-        "Label0d9ee8eb3ae0c42",
-        "btnBack"
+        "FlexContainer01c3492618a814d"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxNavHeader",
+    "id": "FlexContainer0a9a075ef27d547",
     "info": null,
     "isvisible": true,
-    "kuid": "mf6d3a13b5b44ec29f85de659464a1a6",
+    "kuid": "582024e4b939460cb9b34ce33e784278",
     "layouttype": 2,
-    "masterTopLevelFlex": true,
     "name": "kony.ui.FlexContainer",
-    "parent": "mstrNavHeader",
-    "pf": "mstrNavHeader",
+    "parent": "flxMain",
+    "pf": "frmCostPlanDetails",
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
-    "widgetalignment": 1
+    "widgetalignment": 1,
+    "zindex": 1
 }

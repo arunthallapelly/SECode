@@ -1,0 +1,90 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCheckBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": "10"
+    },
+    "_skin_": "sa1ecd2979c94c39a3e98c47fd3ae912",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "id": "CheckBoxGroup0bd7935280ff04e",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 4
+        }
+    },
+    "iphone": {
+        "psp": {
+            "viewType": 4
+        }
+    },
+    "isvisible": true,
+    "itemorientation": "vertical",
+    "kuid": "a12b3b4901b44f8c80a580b1e02627f8",
+    "masterdata": [
+        [
+            "cbg1",
+            "105501 - Information Technology Mangement"
+        ],
+        [
+            "cbg2",
+            "105502 - Corporate Business Systems"
+        ],
+        [
+            "cbg3",
+            "105503 - Scientific and Engineering Systems"
+        ],
+        [
+            "Key873",
+            "105504 - IT Operations and Infrastructure"
+        ],
+        [
+            "Key973",
+            "105505 - IT Support Services"
+        ]
+    ],
+    "name": "kony.ui.CheckBoxGroup",
+    "orientation": "vertical",
+    "parent": "FlexContainer05afdae8a332845",
+    "pf": "frmCostPlanDetails",
+    "selectedkey": null,
+    "selectedkeys": [],
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewtype": 0,
+    "wType": "CheckBoxGroup",
+    "widgetalignment": 5,
+    "zindex": 1
+}

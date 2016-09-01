@@ -23,7 +23,7 @@
         0
     ],
     "_skin_": "sbe3ba3564824e1193353ebb65b2ae12",
-    "_text_": "LEARNING",
+    "_text_": "COST PLANS",
     "_top_": {
         "type": "string",
         "value": "0%"
@@ -39,6 +39,7 @@
     "displaytext": true,
     "focusskin": "sc40321aec644d02a1bc91afed4018a5",
     "id": "CopyButton05dbdeab8a08d41",
+    "ide_onClick": "AS_Button_606227fe21fe4889a8ea25cf68ffdc76",
     "info": null,
     "isvisible": true,
     "kuid": "2b903c7c66d34810903c04eaa07cfdb9",

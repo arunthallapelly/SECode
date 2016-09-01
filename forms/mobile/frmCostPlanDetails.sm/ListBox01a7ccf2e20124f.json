@@ -1,0 +1,58 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s850092ed60e40b7a2d48a8f7db3f8e2",
+    "_srcKuid_": "52d128db64dc4028a9dcd08f233abe75",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {
+        "ispercent": ""
+    },
+    "dataDiffs": {
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "40dp"
+        },
+        "id": "ListBox01a7ccf2e20124f",
+        "masterData": [
+            [
+                "lb1",
+                "Jan"
+            ],
+            [
+                "lb2",
+                "Feb"
+            ],
+            [
+                "lb3",
+                "March"
+            ]
+        ],
+        "width": {
+            "type": "string",
+            "value": "70%"
+        },
+        "zIndex": 1
+    },
+    "id": "ListBox01a7ccf2e20124f",
+    "instanceOf": "52d128db64dc4028a9dcd08f233abe75",
+    "isvisible": true,
+    "kuid": "mad250e054714f30a214e25f5c49d435",
+    "masterInstance": true,
+    "name": "kony.ui.ListBox",
+    "parent": "FlexContainer03cf6f3c0c6ee4b",
+    "pf": "frmCostPlanDetails",
+    "selectedKeyValue": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "wType": "ListBox"
+}

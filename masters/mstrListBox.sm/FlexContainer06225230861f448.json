@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "10dp"
     },
     "_margin_": [
         0,
@@ -23,41 +23,42 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sd384f11ae0f4433b7e50a1a970c770c",
+    "_right_": {
+        "type": "number",
+        "value": "10"
+    },
+    "_skin_": "sf8e4564590a4067b3f880f13c9f8b14",
     "_top_": {
         "type": "string",
         "value": "0dp"
-    },
-    "_width_": {
-        "type": "string",
-        "value": "100%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
     "childInstances": [
-        "m6774703fef54dc0bb35047c92b72fae",
-        "m887ce9a2c9d42739abd6ca33ee2541e",
-        "m9990f05f3ee4a54ae59c7e600f5b427"
+        "ma8847444eb54995a903c572f6fb3d3d",
+        "m3d186ec6fc641429a79fb6d780ed0e5",
+        "mdafc5efe8c54a30a4f78394fa468313",
+        "m92ba5580cc64203b736993b63ac2efe"
     ],
     "children": [
-        "Label0d9ee8eb3ae0c42",
-        "btnBack"
+        "Label05ff3d7d7297941",
+        "ListBox0f1d8ccbad7d745"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxNavHeader",
+    "id": "FlexContainer06225230861f448",
     "info": null,
     "isvisible": true,
-    "kuid": "mf6d3a13b5b44ec29f85de659464a1a6",
-    "layouttype": 2,
-    "masterTopLevelFlex": true,
+    "kuid": "bd415d22d9e445b99f9ee9ee747e4471",
+    "layouttype": 3,
     "name": "kony.ui.FlexContainer",
-    "parent": "mstrNavHeader",
-    "pf": "mstrNavHeader",
+    "parent": "flxItem",
+    "pf": "mstrListBox",
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
-    "widgetalignment": 1
+    "widgetalignment": 1,
+    "zindex": 1
 }

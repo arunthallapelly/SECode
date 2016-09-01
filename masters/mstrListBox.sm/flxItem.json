@@ -23,7 +23,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sd384f11ae0f4433b7e50a1a970c770c",
+    "_skin_": "scc97285e731472f8ddc257e446389af",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -36,26 +36,26 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "childInstances": [
-        "m6774703fef54dc0bb35047c92b72fae",
-        "m887ce9a2c9d42739abd6ca33ee2541e",
-        "m9990f05f3ee4a54ae59c7e600f5b427"
+        "me19905092cc4a11ba1da662a1a8ecf4",
+        "m020e386434449aea34ca32542999b26",
+        "m3cba48aa2b4422a9dc7d3acae17c7c3",
+        "mcf922132b704eec86e7b868eea4e670"
     ],
     "children": [
-        "Label0d9ee8eb3ae0c42",
-        "btnBack"
+        "FlexContainer06225230861f448"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxNavHeader",
+    "id": "flxItem",
     "info": null,
     "isvisible": true,
-    "kuid": "mf6d3a13b5b44ec29f85de659464a1a6",
+    "kuid": "m9890fd9bd04442795506ee62909c1cc",
     "layouttype": 2,
     "masterTopLevelFlex": true,
     "name": "kony.ui.FlexContainer",
-    "parent": "mstrNavHeader",
-    "pf": "mstrNavHeader",
+    "parent": "mstrListBox",
+    "pf": "mstrListBox",
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",

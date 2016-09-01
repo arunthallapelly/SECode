@@ -1,0 +1,28 @@
+{
+    "AS_Button_2d813f561004491994bc12a89c5f8eb1": {
+        "id": "AS_Button_2d813f561004491994bc12a89c5f8eb1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCostPlans",
+            "type": "forms",
+            "platform": null,
+            "KUID": "8ca2f6a653fe4f47baf015e049d4cde2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___85544c9780a64cbeb0421088cc1cd737",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmCostPlanDetails",
+            "formKUID": "376cc4ac324341e2a3c159863b566e60",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

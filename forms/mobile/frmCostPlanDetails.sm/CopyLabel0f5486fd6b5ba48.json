@@ -1,0 +1,40 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4f8b2f58941437f980a5a702780a934",
+    "_srcKuid_": "a484862919c94afcbb6d5b691cf549d9",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "CopyLabel0f5486fd6b5ba48",
+        "text": "Project Funding",
+        "width": {
+            "type": "string",
+            "value": "30%"
+        },
+        "zIndex": 1
+    },
+    "id": "CopyLabel0f5486fd6b5ba48",
+    "instanceOf": "a484862919c94afcbb6d5b691cf549d9",
+    "isvisible": true,
+    "kuid": "m69c9a130c924be691d6ef97b575ce14",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "CopyFlexContainer061aab232f4064a",
+    "pf": "frmCostPlanDetails",
+    "wType": "Label"
+}

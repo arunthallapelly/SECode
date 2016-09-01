@@ -4,11 +4,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "40dp"
-    },
-    "_left_": {
-        "type": "string",
-        "value": "10dp"
+        "value": "35dp"
     },
     "_margin_": [
         6,
@@ -22,33 +18,33 @@
         0,
         0
     ],
-    "_skin_": "sf7aee5d20e04bfebf1c624e61f5cd57",
-    "_text_": "",
+    "_right_": {
+        "type": "number",
+        "value": "10"
+    },
+    "_skin_": "s53fa0e0949d4980ab3c8cb2c35e1c5d",
+    "_text_": "Add",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
     "_width_": {
         "type": "string",
-        "value": "40dp"
+        "value": "50dp"
     },
     "canUpdateUI": true,
-    "centery": {
-        "type": "string",
-        "value": "50%"
-    },
-    "childInstances": [
-        "m936f20a2c254a849dd9ff7d0e04a05d",
-        "m2dc1f8ea2db4141a3495ea8959c4b67",
-        "m44d493332a6458d973996e945f2febe"
-    ],
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
     "focusskin": "se5398769ea34d00a3a0d76a80a9cef4",
-    "id": "btnBack",
+    "id": "Button0e6e4ecd8d19046",
+    "ide_onClick": "AS_Button_2d813f561004491994bc12a89c5f8eb1",
     "info": null,
     "isvisible": true,
-    "kuid": "1d0af7bb6edd4455adc20b63ae6b09d0",
+    "kuid": "a519f8c805084cc78641505fc933e616",
     "name": "kony.ui.Button",
-    "parent": "flxNavHeader",
-    "pf": "mstrNavHeader",
+    "parent": "frmCostPlans",
+    "pf": "frmCostPlans",
     "wType": "Button",
-    "zindex": 10
+    "zindex": 1
 }

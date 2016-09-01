@@ -1,0 +1,44 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb439730aa0a49cc9c945084625b140a",
+    "_srcKuid_": "f6db200431d24e27bad91e6d81178a82",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "centerX": {
+            "type": "string",
+            "value": "50%"
+        },
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "50dp"
+        },
+        "id": "Label0d9ee8eb3ae0c42",
+        "text": "IT Cost Plans",
+        "width": {
+            "type": "string",
+            "value": "250dp"
+        },
+        "zIndex": 1
+    },
+    "id": "Label0d9ee8eb3ae0c42",
+    "instanceOf": "f6db200431d24e27bad91e6d81178a82",
+    "isvisible": true,
+    "kuid": "m3266b4635f44c18ad3b49793913e3fe",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "flxNavHeader",
+    "pf": "frmCostPlans",
+    "wType": "Label"
+}

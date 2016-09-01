@@ -1,0 +1,40 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4f8b2f58941437f980a5a702780a934",
+    "_srcKuid_": "ed0be21a7ec645e58b362ee948aaa17e",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "40dp"
+        },
+        "id": "Label0ebe42d3248fc40",
+        "text": "Plan Name",
+        "width": {
+            "type": "string",
+            "value": "30%"
+        },
+        "zIndex": 1
+    },
+    "id": "Label0ebe42d3248fc40",
+    "instanceOf": "ed0be21a7ec645e58b362ee948aaa17e",
+    "isvisible": true,
+    "kuid": "me24df67ff444c95875a00e9c1ce4d75",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "FlexContainer0ea301a0fa55443",
+    "pf": "frmCostPlanDetails",
+    "wType": "Label"
+}

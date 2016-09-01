@@ -2,13 +2,13 @@
     "@class": "com.kony.gen.viz.model.component.KVizButton",
     "DNDConfig": null,
     "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "number",
+        "value": "10"
+    },
     "_height_": {
         "type": "string",
         "value": "40dp"
-    },
-    "_left_": {
-        "type": "string",
-        "value": "10dp"
     },
     "_margin_": [
         6,
@@ -22,33 +22,29 @@
         0,
         0
     ],
-    "_skin_": "sf7aee5d20e04bfebf1c624e61f5cd57",
-    "_text_": "",
+    "_right_": {
+        "type": "number",
+        "value": "10"
+    },
+    "_skin_": "s552af24cac64c32b19720e7e0afa1bf",
+    "_text_": "Done",
     "_width_": {
         "type": "string",
-        "value": "40dp"
+        "value": "100dp"
     },
     "canUpdateUI": true,
-    "centery": {
-        "type": "string",
-        "value": "50%"
-    },
-    "childInstances": [
-        "m936f20a2c254a849dd9ff7d0e04a05d",
-        "m2dc1f8ea2db4141a3495ea8959c4b67",
-        "m44d493332a6458d973996e945f2febe"
-    ],
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
     "focusskin": "se5398769ea34d00a3a0d76a80a9cef4",
-    "id": "btnBack",
+    "id": "Button0511caa779e0742",
+    "ide_onClick": "AS_Button_b550bd48e80547b9be3196beeddaf0e1",
     "info": null,
     "isvisible": true,
-    "kuid": "1d0af7bb6edd4455adc20b63ae6b09d0",
+    "kuid": "241c938d8739497e96d71760d74cdce8",
     "name": "kony.ui.Button",
-    "parent": "flxNavHeader",
-    "pf": "mstrNavHeader",
+    "parent": "flxCostCenters",
+    "pf": "frmCostPlanDetails",
     "wType": "Button",
-    "zindex": 10
+    "zindex": 1
 }

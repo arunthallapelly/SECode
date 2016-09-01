@@ -4,7 +4,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "50dp"
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
     },
     "_margin_": [
         1,
@@ -18,11 +22,15 @@
         0,
         0
     ],
-    "_skin_": "sb439730aa0a49cc9c945084625b140a",
-    "_text_": "Pioneer Zone",
+    "_skin_": "s8c24c4537d645dabbfc8b93dd875988",
+    "_text_": "Funding Description",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
     "_width_": {
         "type": "string",
-        "value": "250dp"
+        "value": "30%"
     },
     "_wrapping_": 2,
     "android": {
@@ -32,22 +40,9 @@
         }
     },
     "canUpdateUI": true,
-    "centerx": {
-        "type": "string",
-        "value": "50%"
-    },
-    "centery": {
-        "type": "string",
-        "value": "50%"
-    },
-    "childInstances": [
-        "m3266b4635f44c18ad3b49793913e3fe",
-        "m272bf936f554046ac5b950aaf31b116",
-        "m4fc6b3d727845ad9d642c577eebfbd7"
-    ],
     "containerweight": 100,
-    "contentalignment": 5,
-    "id": "Label0d9ee8eb3ae0c42",
+    "contentalignment": 4,
+    "id": "CopyLabel0b1c2eda7477642",
     "info": null,
     "ipad": {
         "psp": {
@@ -60,10 +55,10 @@
         }
     },
     "isvisible": true,
-    "kuid": "f6db200431d24e27bad91e6d81178a82",
+    "kuid": "1fa2b7a2ecc7405e9ecb2173d4a287a6",
     "name": "kony.ui.Label",
-    "parent": "flxNavHeader",
-    "pf": "mstrNavHeader",
+    "parent": "CopyFlexContainer0b3b648ae2af742",
+    "pf": "frmCostPlanDetails",
     "tooltip": "",
     "wType": "Label",
     "zindex": 1

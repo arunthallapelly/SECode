@@ -1,0 +1,47 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scc97285e731472f8ddc257e446389af",
+    "_srcKuid_": "m9890fd9bd04442795506ee62909c1cc",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "children": [
+        "FlexContainer03cf6f3c0c6ee4b"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "50dp"
+        },
+        "id": "FlexContainer01c48b3a6f7e24e",
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 1
+    },
+    "id": "FlexContainer01c48b3a6f7e24e",
+    "instanceOf": "m9890fd9bd04442795506ee62909c1cc",
+    "isvisible": true,
+    "kuid": "m3cba48aa2b4422a9dc7d3acae17c7c3",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxMain",
+    "pf": "frmCostPlanDetails",
+    "wType": "FlexContainer"
+}

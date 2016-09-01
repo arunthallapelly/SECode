@@ -15,7 +15,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s0f725d76bef4219ac89021fbe7187fa",
+    "_skin_": "s263a5bea4434dfe915d8ee517e89ce1",
     "_title_": null,
     "addWidgetsdone": false,
     "allboxes": [],
@@ -27,9 +27,8 @@
     },
     "canUpdateUI": true,
     "children": [
-        "flxNavHeader",
-        "flxTop",
-        "Button0e6e4ecd8d19046"
+        "flxScroll",
+        "flxCostCenters"
     ],
     "containerweight": 100,
     "currentLocale": null,
@@ -39,7 +38,7 @@
     "device": "iPhone6",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "id": "frmCostPlans",
+    "id": "frmCostPlanDetails",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -71,7 +70,7 @@
         "titleBar": false
     },
     "isvisible": true,
-    "kuid": "8ca2f6a653fe4f47baf015e049d4cde2",
+    "kuid": "376cc4ac324341e2a3c159863b566e60",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": true,

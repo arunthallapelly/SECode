@@ -21,14 +21,14 @@
     "allboxes": [],
     "canUpdateUI": true,
     "children": [
-        "flxNavHeader"
+        "flxItem"
     ],
     "containerweight": 100,
     "currentLocale": null,
     "device": "iPhone6",
     "displayorientation": 3,
     "enabledforidletimeout": false,
-    "id": "mstrNavHeader",
+    "id": "mstrTextBox",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -36,7 +36,7 @@
         "formTransition": "None"
     },
     "isvisible": true,
-    "kuid": "4d9a46c4c74246359e59e0bfcf815328",
+    "kuid": "ff701391398f419d8675afac011e89ba",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": true,
@@ -44,9 +44,9 @@
         "formTransition": "None"
     },
     "paddinginpixel": false,
-    "platform": "spaip",
-    "prevDevice": "GalaxyS5",
-    "prevPlatform": "spaan",
+    "platform": "iphone",
+    "prevDevice": "iPhone6",
+    "prevPlatform": "iphone",
     "retainscrollposition": false,
     "shellCSS": "iOS_iPhone6",
     "titleBarSkin": "s01a3c761ed44dcab0d6537d1b55b621",

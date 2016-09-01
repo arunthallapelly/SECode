@@ -1,0 +1,44 @@
+{
+    "AS_Button_9ed7c92c8c2640f8bb9b81a5fe6daed7": {
+        "id": "AS_Button_9ed7c92c8c2640f8bb9b81a5fe6daed7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCostPlanDetails",
+            "type": "forms",
+            "platform": null,
+            "KUID": "376cc4ac324341e2a3c159863b566e60"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "___ide_onClick_5bc6419b52cc4a89b818c06091899ff6",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "frmCostPlanDetails",
+            "widgetId": "flxCostCenters",
+            "itemKUID": "376cc4ac324341e2a3c159863b566e60",
+            "widgetKUID": "d2193f74feda4afaad66a1c1d77db9d3",
+            "animationObject": {
+                "centerX": "50%",
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "0",
+                "iterationCount": 1,
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "250"
+            },
+            "start": "Immediately",
+            "animationId": "MOVE_ACTION____9757c45cba0f4b66b2d941905cd73028",
+            "displayAnimationId": "MOVE_ACTION____9757c45cba0f4b66b2d941905cd73028",
+            "forkedPlatform": "all",
+            "callbackType": null
+        }]
+    }
+}

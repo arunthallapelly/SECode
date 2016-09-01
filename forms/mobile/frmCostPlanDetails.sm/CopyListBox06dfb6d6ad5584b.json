@@ -1,0 +1,58 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s850092ed60e40b7a2d48a8f7db3f8e2",
+    "_srcKuid_": "52d128db64dc4028a9dcd08f233abe75",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {
+        "ispercent": ""
+    },
+    "dataDiffs": {
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "40dp"
+        },
+        "id": "CopyListBox06dfb6d6ad5584b",
+        "masterData": [
+            [
+                "105501",
+                "105501 - Information Technology Management"
+            ],
+            [
+                "105502",
+                "105502 - Corporate Business Systems"
+            ],
+            [
+                "105503",
+                "105503 - Scientific and Engineering Systems"
+            ]
+        ],
+        "width": {
+            "type": "string",
+            "value": "70%"
+        },
+        "zIndex": 1
+    },
+    "id": "CopyListBox06dfb6d6ad5584b",
+    "instanceOf": "52d128db64dc4028a9dcd08f233abe75",
+    "isvisible": true,
+    "kuid": "m11eeca0bf8f4616bf6d4f71668b7b07",
+    "masterInstance": true,
+    "name": "kony.ui.ListBox",
+    "parent": "CopyFlexContainer061aab232f4064a",
+    "pf": "frmCostPlanDetails",
+    "selectedKeyValue": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "wType": "ListBox"
+}

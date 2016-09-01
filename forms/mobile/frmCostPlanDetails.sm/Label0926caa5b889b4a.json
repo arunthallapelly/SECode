@@ -1,0 +1,40 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4f8b2f58941437f980a5a702780a934",
+    "_srcKuid_": "a484862919c94afcbb6d5b691cf549d9",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "40dp"
+        },
+        "id": "Label0926caa5b889b4a",
+        "text": "Expenditure Start Period",
+        "width": {
+            "type": "string",
+            "value": "30%"
+        },
+        "zIndex": 1
+    },
+    "id": "Label0926caa5b889b4a",
+    "instanceOf": "a484862919c94afcbb6d5b691cf549d9",
+    "isvisible": true,
+    "kuid": "m06ebc0c612d467cbb26ebcec6195965",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "FlexContainer03cf6f3c0c6ee4b",
+    "pf": "frmCostPlanDetails",
+    "wType": "Label"
+}
